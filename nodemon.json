@@ -1,0 +1,12 @@
+{
+    "env":{
+        "MYSQL_USER": "b9c706bcabd07c",
+        "MYSQL_PSW": "aea5526c",
+        "MYSQL_DATABASE": "heroku_a1a749d2e59fba4",
+        "MYSQL_HOST": "us-cdbr-east-03.cleardb.com",
+        "MYSQL_PORT": 3306,
+
+        "JWT_KEY": "KeyE-CommerceApi#374",
+        "URL_API": "https://commerce-e.herokuapp.com/"
+    }
+}
